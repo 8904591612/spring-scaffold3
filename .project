@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>spring-scaffold-cli</name>
+=======
+	<name>spring-boot-generate</name>
+>>>>>>> 927bd26de920e81ace8943da7d00f1ab4de9e058
 	<comment></comment>
 	<projects>
 	</projects>
